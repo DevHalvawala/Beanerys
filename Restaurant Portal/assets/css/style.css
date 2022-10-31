@@ -1672,7 +1672,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #cda45e;
+  background: #ff8c00;
   color: #fff;
   text-decoration: none;
 }
@@ -1697,7 +1697,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #cda45e;
+  color: #ff8c00;
   font-size: 18px;
   line-height: 1;
 }
@@ -1720,7 +1720,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #cda45e;
+  color: #ff8c00;
 }
 
 #footer .footer-top .footer-newsletter form {
@@ -1749,14 +1749,14 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px 2px 20px;
-  background: #cda45e;
+  background: #ff8c00;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
 }
 
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
-  background: #d3af71;
+  background: #ff8c00;
 }
 
 #footer .copyright {
